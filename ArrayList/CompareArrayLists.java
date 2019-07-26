@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Compare ArrayList objects.
  */
-public class CompareArraysLists {
+public class CompareArrayLists {
 
     /**
      * A method to compare arrayList's.
