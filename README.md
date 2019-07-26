@@ -23,7 +23,13 @@ The purpose of this repository is to give an idea of data structures with using 
 ### List
 #### Vector
 #### Stack
+[Reverse LinkedList](Stack/ReverseLinkedList.java)<br>
+[Reverse words in text](Stack/ReverseTextWords.java)<br>
 #### ArrayList
+[Compare ArrayList objects](ArrayList/CompareArrayLists.java)<br>
+[Convert array to list](ArrayList/ConvertArrayToList.java)<br>
+[Convert list to array](ArrayList/ConvertListToArray.java)<br>
+[Convert a two-dimensional array to an ArrayList](ArrayList/ConvertTwoDimensionalArrayList.java)<br>
 #### LinkedList
 
 ### Set
