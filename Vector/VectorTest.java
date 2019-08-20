@@ -1,7 +1,7 @@
 public class VectorTest {
     public static void main(String[] args) {
 
-        VectorImpl vector = new VectorImpl(); // capacity: 10
+        VectorImpl<Integer> vector = new VectorImpl<>(); // capacity: 10
 
         System.out.println(vector.toString()); // out: []
 
