@@ -5,7 +5,7 @@ The purpose of this repository is to give an idea of data structures with using 
 - **[String](#String)**
 - **[Vector](#Vector)**
 - **[Stack](#Stack)**
-- **[Linked List](#Linked List)**
+- **[Linked List](#Linked-List)**
 - **[Queue](#Queue)**
 - **[Tree](#Tree)**
 - **[Graph](#Graph)**
