@@ -10,14 +10,14 @@ The purpose of this repository is to give an idea of data structures with using 
 - **[Tree](#Tree)**
 - **[Graph](#Graph)**
 
-#### Array
-#### String
-#### Vector
-#### Stack
-#### Linked List
-#### Queue
-#### Tree
-#### Graph
+## Array
+## String
+## Vector
+## Stack
+## Linked List
+## Queue
+## Tree
+## Graph
 
 ## Contribute
 For any problems, comments, or feedback please create an issue [here](https://github.com/egnaf/structures).
