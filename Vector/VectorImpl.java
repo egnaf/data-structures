@@ -52,7 +52,7 @@ public class VectorImpl<T> implements Vector {
         } else {
             throw new IllegalArgumentException("index is big then size");
         }
-        return !data[index].equals(value);
+        return true;
     }
 
     @Override
