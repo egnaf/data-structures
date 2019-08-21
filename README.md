@@ -32,6 +32,11 @@ Arrays are used to store multiple values in a single variable, instead of declar
 | Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
 
 ## Stack
+| ... | Access | Search | Insert | Delete |
+| --- | --- | --- | --- | --- |
+| Average | Θ(n) |	Θ(n) |	Θ(1) |	Θ(1) |
+| Worst |	Θ(n) |	Θ(n) |	Θ(1) |	Θ(1) |
+
 ## Linked List
 ## Queue
 ## Tree
