@@ -1,12 +1,12 @@
 # structures
 The purpose of this repository is to give an idea of data structures with using Java.
 
-- **[Array](#Array)**
-- **[Stack](#Stack)**
-- **[Linked List](#Linked-List)**
-- **[Queue](#Queue)**
-- **[Tree](#Tree)**
-- **[Graph](#Graph)**
+**[Array](#Array)**
+&#9679; **[Stack](#Stack)**
+&#9679; **[Linked List](#Linked List)**
+&#9679; **[Queue](#Queue)**
+&#9679; **[Tree](#Tree)**
+&#9679; **[Graph](#Graph)**
 
 ## Array
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
