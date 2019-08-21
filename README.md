@@ -11,6 +11,9 @@ The purpose of this repository is to give an idea of data structures with using 
 - **[Graph](#Graph)**
 
 ## Array
+Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+<img src="https://i.ibb.co/JyBVVfY/Array.gif">
+
 ## String
 ## Vector
 ## Stack
