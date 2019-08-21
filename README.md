@@ -12,10 +12,20 @@ The purpose of this repository is to give an idea of data structures with using 
 
 ## Array
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
-<img src="https://i.ibb.co/JyBVVfY/Array.gif">
+<img src="https://i.ibb.co/JyBVVfY/Array.gif" alt="Array">
+
+| ... | Access | Search | Insert | Delete |
+| --- | --- | --- | --- | --- |
+| Average | Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
+| Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
 
 ## String
 ## Vector
+| ... | Access | Search | Insert | Delete |
+| --- | --- | --- | --- | --- |
+| Average | Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
+| Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
+
 ## Stack
 ## Linked List
 ## Queue
