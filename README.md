@@ -20,6 +20,11 @@ Arrays are used to store multiple values in a single variable, instead of declar
 | Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
 
 ## String
+| ... | Access | Search | Insert | Delete |
+| --- | --- | --- | --- | --- |
+| Average | Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
+| Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
+
 ## Vector
 | ... | Access | Search | Insert | Delete |
 | --- | --- | --- | --- | --- |
