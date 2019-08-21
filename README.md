@@ -18,6 +18,12 @@ Arrays are used to store multiple values in a single variable, instead of declar
 | Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
 
 ## Stack
+In computer science, a **stack** is an abstract data type that serves as a collection of elements, with two principal operations:
+- **push**, which adds an element to the collection, and
+- **pop**, which removes the most recently added element that was not yet removed.
+
+<img src="https://i.ibb.co/crnqVnJ/Stack.gif" alt="Stack">
+
 | ... | Access | Search | Insert | Delete |
 | --- | --- | --- | --- | --- |
 | Average | Θ(n) |	Θ(n) |	Θ(1) |	Θ(1) |
