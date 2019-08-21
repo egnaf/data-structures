@@ -2,8 +2,6 @@
 The purpose of this repository is to give an idea of data structures with using Java.
 
 - **[Array](#Array)**
-- **[String](#String)**
-- **[Vector](#Vector)**
 - **[Stack](#Stack)**
 - **[Linked List](#Linked-List)**
 - **[Queue](#Queue)**
@@ -14,18 +12,6 @@ The purpose of this repository is to give an idea of data structures with using 
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 <img src="https://i.ibb.co/KVvbRD2/Array.gif" alt="Array">
 
-| ... | Access | Search | Insert | Delete |
-| --- | --- | --- | --- | --- |
-| Average | Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
-| Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
-
-## String
-| ... | Access | Search | Insert | Delete |
-| --- | --- | --- | --- | --- |
-| Average | Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
-| Worst |	Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
-
-## Vector
 | ... | Access | Search | Insert | Delete |
 | --- | --- | --- | --- | --- |
 | Average | Θ(1) |	Θ(n) |	Θ(n) |	Θ(n) |
