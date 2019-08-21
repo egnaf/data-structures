@@ -3,7 +3,7 @@ The purpose of this repository is to give an idea of data structures with using 
 
 **[Array](#Array)**
 &#9679; **[Stack](#Stack)**
-&#9679; **[Linked List](#Linked List)**
+&#9679; **[Linked List](#Linked-List)**
 &#9679; **[Queue](#Queue)**
 &#9679; **[Tree](#Tree)**
 &#9679; **[Graph](#Graph)**
