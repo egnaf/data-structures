@@ -10,7 +10,7 @@ The purpose of this repository is to give an idea of data structures with using 
 
 ## Array
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
-<img src="https://i.ibb.co/KVvbRD2/Array.gif" alt="Array">
+<img src="https://i.ibb.co/gFcN4Bg/Array.gif" alt="Array">
 
 | ... | Access | Search | Insert | Delete |
 | --- | --- | --- | --- | --- |
