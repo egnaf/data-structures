@@ -1,15 +1,30 @@
 # structures
 The purpose of this repository is to give an idea of data structures with using Java.
 
-| Name | Kinds |
-| --- | --- |
-| **[Array](#Array)** | Array<br>Vector<br>List |
-| **[Linked List](#Linked-List)** | Linked List<br>LinkedLinkedList |
-| **[Queue](#Queue)** |	Queue<br>Deque |
-| **[Tree](#Tree)** | Binary tree<br>Read-black tree |
-| **[Graph](#Graph)** |	Graph |
+- **[Arrays](#Arrays)**
+  - [Simple array]()
+  - [String]()
+- **[Lists](#Lists)**
+  - [Vector]()
+  - [Stack]()
+  - [Simple list]()
+  - [Linked list]()
+  - [Doubly linked list]()
+- **[Queues](#Queues)**
+  - [Queue]()
+  - [Double-ended queue]()
+- **[Trees](#Trees)**
+  - [Binary tree]()
+  - [Read-black tree]()
+- **[Graphs](#Graphs)**
+  - [Simple graph]()
+  - [Undirected or directed graphs]()
+  - [Cyclic or acyclic graphs]()
+  - [Labeled graphs]()
+  - [Weighted graphs]()
+  - [Infinite graphs]()
 
-## Array
+## Arrays
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 <img src="https://i.ibb.co/gFcN4Bg/Array.gif" alt="Array">
 
