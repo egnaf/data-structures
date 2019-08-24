@@ -57,6 +57,38 @@ In computer science, a **stack** is an abstract data type that serves as a colle
 | Average | Θ(n) |	Θ(n) |	Θ(1) |	Θ(1) |
 | Worst |	Θ(n) |	Θ(n) |	Θ(1) |	Θ(1) |
 
+### Linked list
+a Linked list is a linear collection of data elements, whose order is not given by their physical placement in memory. 
+Instead, each element points to the next. 
+It is a data structure consisting of a collection of nodes which together represent a sequence.
+```java
+public class Node<T> {
+    private Node<T> next = null;
+    private T data;
+
+    public Node(T data) {
+        this.data = data;
+    }
+
+    void appendToTail(T data) {
+        Node<T> endNode = new Node<>(data);
+        Node<T> currentNode = this;
+
+        while (currentNode.next != null) {
+            currentNode = currentNode.next;
+        }
+
+        currentNode.next = endNode;
+    }
+}
+```
+
+Complexity:
+
+| ... | Access | Search | Insert | Delete |
+| --- | --- | --- | --- | --- |
+| Average | Θ(n) |	Θ(n) |	Θ(1) |	Θ(1) |
+| Worst |	Θ(n) |	Θ(n) |	Θ(1) |	Θ(1) |
 ## Queues
 ## Trees
 ## Graphs
