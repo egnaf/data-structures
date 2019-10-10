@@ -1,3 +1,5 @@
+package com.github.egnaf.ventum;
+
 public class StackTest {
 
     public static void main(String[] args) {

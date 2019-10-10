@@ -1,22 +1,17 @@
+package com.github.egnaf.ventum;
+
 import java.util.Arrays;
 
 public class StackImpl<T> implements  Stack {
 
-    private Object[] data;
+    private Object[] data = null;
 
-    private int size;
+    private int size = 0;
 
-    private int capacity;
+    private int capacity = 10;
 
     public StackImpl() {
-        capacity = 10;
-        size = 0;
         data = new Object[capacity];
-    }
-
-    @Override
-    public int size() {
-        return size;
     }
 
     @Override
@@ -44,6 +39,16 @@ public class StackImpl<T> implements  Stack {
     @Override
     public T peek() {
         return (T) data[size - 1];
+    }
+
+    @Override
+    public int size() {
+        return size;
+    }
+
+    @Override
+    public int capacity() {
+        return capacity;
     }
 
     @Override
