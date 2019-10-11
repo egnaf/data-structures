@@ -1,3 +1,5 @@
+package com.github.egnaf.ventum;
+
 import java.util.Arrays;
 
 public class VectorImpl<T> implements Vector {
