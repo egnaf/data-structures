@@ -1,3 +1,5 @@
+package com.github.egnaf.ventum;
+
 public interface Vector<T> {
     int size();
     boolean add(T element);
