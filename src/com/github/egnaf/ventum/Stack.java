@@ -6,9 +6,9 @@ package com.github.egnaf.ventum;
  */
 public interface Stack<T> {
 
-    boolean push(T element);
+    void push(T element);
 
-    boolean pop();
+    void pop();
 
     T peek();
 

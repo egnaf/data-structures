@@ -15,7 +15,7 @@ public class StackImpl<T> implements  Stack {
     }
 
     @Override
-    public boolean push(Object element) {
+    public void push(Object element) {
         if (capacity <= size + 1) {
             Object[] tmp = new Object[size];
             System.arraycopy(data, 0, tmp, 0, size);
@@ -26,14 +26,12 @@ public class StackImpl<T> implements  Stack {
         } else {
             data[++size - 1] = element;
         }
-        return data[size - 1].equals(element);
     }
 
     @Override
-    public boolean pop() {
+    public void pop() {
         data[size - 1] = null;
         size--;
-        return true;
     }
 
     @Override
