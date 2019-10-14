@@ -1,4 +1,4 @@
-package com.github.egnaf.ventum;
+package com.github.egnaf.structures;
 
 public interface Vector<T> {
     int size();

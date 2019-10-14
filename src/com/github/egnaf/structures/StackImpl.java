@@ -1,4 +1,4 @@
-package com.github.egnaf.ventum;
+package com.github.egnaf.structures;
 
 import java.util.Arrays;
 

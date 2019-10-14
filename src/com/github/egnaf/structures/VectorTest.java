@@ -1,4 +1,4 @@
-package com.github.egnaf.ventum;
+package com.github.egnaf.structures;
 
 public class VectorTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.github.egnaf.ventum;
+package com.github.egnaf.structures;
 
 public interface Tree<K, V> {
     V get(Comparable<? super K> key);
