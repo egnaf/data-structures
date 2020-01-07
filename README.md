@@ -1,10 +1,11 @@
-# data structures
+# data-structures
 The purpose of this repository is to give an idea of data structures with using Java.
 
+
 - **[Lists]()**
+  - [Array]()
   - [Vector]()
   - [Stack]()
-  - [Simple list]()
   - [Linked list]()
   - [Doubly linked list]()
 - **[Queues]()**
@@ -20,6 +21,13 @@ The purpose of this repository is to give an idea of data structures with using 
   - [Labeled graphs]()
   - [Weighted graphs]()
   - [Infinite graphs]()
+
+
+## Lists
+
+## Queues
+
+## Graphs
 
 ## Contribute
 For any problems, comments, or feedback please create an issue [here](https://github.com/egnaf/ventum).
