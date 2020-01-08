@@ -1,36 +1,35 @@
 # data-structures
-The purpose of this repository is to give an idea of data structures with using Java.
+The purpose of this repository is to give an idea of data structures in Java Collections Framework.
+
+<center>
+
+**English** &nbsp; [Русский]() &nbsp; [Deutsch]()
+
+</center>
 
 
+- **[Arrays]()**
 - **[Lists]()**
-  - [Array]()
   - [Vector]()
   - [Stack]()
-  - [Linked list]()
-  - [Doubly linked list]()
+  - [ArrayList]()
+  - [LinkedList]()
+- **[Set]()**
+  - [HashSet]()
+  - [TreeSet]()
+  - [LinkedHashSet]()
 - **[Queues]()**
-  - [Queue]()
-  - [Double-ended queue]()
-- **[Trees]()**
-  - [Binary tree]()
-  - [Read-black tree]()
-- **[Graphs]()**
-  - [Simple graph]()
-  - [Undirected or directed graphs]()
-  - [Cyclic or acyclic graphs]()
-  - [Labeled graphs]()
-  - [Weighted graphs]()
-  - [Infinite graphs]()
+  - [ArrayDeque]()
+  - [PriorityQueue]()
+- **[Maps]()**
+  - [HashTable]()
+  - [HashMap]()
+  - [TreeMap]()
+  - [LinkedHashMap]()
 
-
-## Lists
-
-## Queues
-
-## Graphs
 
 ## Contribute
-For any problems, comments, or feedback please create an issue [here](https://github.com/egnaf/ventum).
+For any problems, comments, or feedback please create an issue [here](https://github.com/egnaf/data-structures/issues).
 <br>
 
 ## Licence
