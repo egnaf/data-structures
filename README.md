@@ -26,9 +26,37 @@ The purpose of this repository is to give an idea of data structures in Java Col
 ## Collection Framework
 ### Lists
 #### Vector
+| **Action** | **Complexity** |
+|--------|------------|
+| access | O(1)       |
+| search | O(n)       |
+| insert | O(n)       |
+| delete | O(1)       |
+
 #### Stack
+| **Action** | **Complexity** |
+|--------|------------|
+| access | O(n)       |
+| search | O(n)       |
+| insert | O(1)       |
+| delete | O(n)       |
+
 #### ArrayList
+| **Action** | **Complexity** |
+|--------|------------|
+| access | O(1)       |
+| search | O(n)       |
+| insert | O(n)       |
+| delete | O(n)       |
+
 #### LinkedList
+| **Action** | **Complexity** |
+|--------|------------|
+| access | O(n)       |
+| search | O(n)       |
+| insert | O(1)       |
+| delete | O(1)       |
+
 ### Set
 #### HashSet
 #### TreeSet
