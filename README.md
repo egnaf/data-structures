@@ -26,36 +26,43 @@ The purpose of this repository is to give an idea of data structures in Java Col
 ## Collection Framework
 ### Lists
 #### Vector
-| **Action** | **Complexity** |
-|--------|------------|
-| access | O(1)       |
-| search | O(n)       |
-| insert | O(n)       |
-| delete | O(1)       |
+| **Action** | **Worst** | **Best** |
+--- | --- | ---
+| access | O(1) | |
+| search | O(n) | |
+| insert | O(n) | |
+| delete | O(1) | |
 
 #### Stack
-| **Action** | **Complexity** |
-|--------|------------|
-| access | O(n)       |
-| search | O(n)       |
-| insert | O(1)       |
-| delete | O(n)       |
+| **Action** | **Worst** | **Best** |
+--- | --- | ---
+| access | O(n) | |
+| search | O(n) | |
+| insert | O(1) | |
+| delete | O(n) | |
 
 #### ArrayList
-| **Action** | **Complexity** |
-|--------|------------|
-| access | O(1)       |
-| search | O(n)       |
-| insert | O(n)       |
-| delete | O(n)       |
+**Description**<br>
+A data structure that stores items in an array with dynamic capacity increase.
+
+Type: array<br>
+Default capacity: 10<br>
+Increase: oldCapacity + (oldCapacity >> 2)
+
+| **Action** | **Worst** | **Best** |
+--- | --- | ---
+| access | O(1) | O(1)       
+| search | O(n) | O(1) 
+| insert | O(n) | O(1) 
+| delete | O(n) | O(1) 
 
 #### LinkedList
-| **Action** | **Complexity** |
-|--------|------------|
-| access | O(n)       |
-| search | O(n)       |
-| insert | O(1)       |
-| delete | O(1)       |
+| **Action** | **Worst** | **Best** |
+--- | --- | ---
+| access | O(n) | |
+| search | O(n) | |
+| insert | O(1) | |
+| delete | O(1) | |
 
 ### Set
 #### HashSet
