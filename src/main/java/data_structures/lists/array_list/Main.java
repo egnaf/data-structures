@@ -1,4 +1,6 @@
-public class DemoApplication {
+package data_structures.lists.array_list;
+
+public class Main {
 
     public static void main(String[] args) {
         MyList<Integer> list = new MyArrayList<>();

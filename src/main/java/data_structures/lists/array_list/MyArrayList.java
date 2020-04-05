@@ -1,3 +1,5 @@
+package data_structures.lists.array_list;
+
 import java.util.Arrays;
 
 /**
